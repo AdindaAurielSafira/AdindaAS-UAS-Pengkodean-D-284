@@ -4,27 +4,21 @@
 
 Berdasarkan gambar di atas serta penjabaran makna dari setiap aspek, dapat disimpulkan penjualan per kategori per bulan sebagai berikut.
 
-a) Penjualan Elektronik dipengaruhi oleh faktor-faktor eksternal seperti 
-peluncuran produk baru atau promosi besar.
+1) Penjualan Elektronik dipengaruhi oleh faktor-faktor eksternal seperti peluncuran produk baru atau promosi besar.
 
-b) Penjualan Fashion meningkat selama musim belanja tertentu seperti 
-liburan atau akhir tahun.
+2) Penjualan Fashion meningkat selama musim belanja tertentu seperti liburan atau akhir tahun.
 
-c) Penjualan Otomotif yang relatif stabil menunjukkan minat konsisten 
-dengan beberapa puncak penjualan di bulan-bulan tertentu.
+3) Penjualan Otomotif yang relatif stabil menunjukkan minat konsisten dengan beberapa puncak penjualan di bulan-bulan tertentu.
 
 ![image](https://github.com/AdindaAurielSafira/AdindaAS-UAS-Pengkodean-D-284/blob/main/pendapatan_per_kategori/pendapatan_per_kategori.png)
 
 Berdasarkan gambar di atas serta penjabaran makna dari setiap aspek, dapat disimpulkan pendapatan per kategori per bulan sebagai berikut.
 
-a) Kategori Elektronik memiliki promosi besar atau musim tertentu yang 
-menyebabkan lonjakan pendapatan besar.
+1) Kategori Elektronik memiliki promosi besar atau musim tertentu yang menyebabkan lonjakan pendapatan besar.
 
-b) Kategori Fashion dipengaruhi oleh musim atau tren fashion yang lebih 
-stabil.
+2) Kategori Fashion dipengaruhi oleh musim atau tren fashion yang lebih stabil.
 
-c) Kategori Otomotif menunjukkan pertumbuhan yang stabil dan peningkatan 
-minat atau pembelian sepanjang tahun.
+3) Kategori Otomotif menunjukkan pertumbuhan yang stabil dan peningkatan minat atau pembelian sepanjang tahun.
 
 ![image](https://github.com/AdindaAurielSafira/AdindaAS-UAS-Pengkodean-D-284/blob/main/korelasi/heatmap_korelasi.png)
 
