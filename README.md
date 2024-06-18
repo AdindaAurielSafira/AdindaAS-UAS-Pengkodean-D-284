@@ -1,6 +1,6 @@
 #UAS-Pengkodean-D-284
 
-[image!](https://github.com/AdindaAurielSafira/AdindaAS-UAS-Pengkodean-D-284/blob/main/penjualan_per_kategori/penjualan_per_kategori.png)
+![image](https://github.com/AdindaAurielSafira/AdindaAS-UAS-Pengkodean-D-284/blob/main/penjualan_per_kategori/penjualan_per_kategori.png)
 
 Berdasarkan gambar di atas serta penjabaran makna dari setiap aspek, dapat disimpulkan penjualan per kategori per bulan sebagai berikut.
 
@@ -13,7 +13,7 @@ liburan atau akhir tahun.
 c) Penjualan Otomotif yang relatif stabil menunjukkan minat konsisten 
 dengan beberapa puncak penjualan di bulan-bulan tertentu.
 
-[image!](https://github.com/AdindaAurielSafira/AdindaAS-UAS-Pengkodean-D-284/blob/main/pendapatan_per_kategori/pendapatan_per_kategori.png)
+![image](https://github.com/AdindaAurielSafira/AdindaAS-UAS-Pengkodean-D-284/blob/main/pendapatan_per_kategori/pendapatan_per_kategori.png)
 
 Berdasarkan gambar di atas serta penjabaran makna dari setiap aspek, dapat disimpulkan pendapatan per kategori per bulan sebagai berikut.
 
@@ -26,9 +26,9 @@ stabil.
 c) Kategori Otomotif menunjukkan pertumbuhan yang stabil dan peningkatan 
 minat atau pembelian sepanjang tahun.
 
-[image!](https://github.com/AdindaAurielSafira/AdindaAS-UAS-Pengkodean-D-284/blob/main/korelasi/heatmap_korelasi.png)
+![image](https://github.com/AdindaAurielSafira/AdindaAS-UAS-Pengkodean-D-284/blob/main/korelasi/heatmap_korelasi.png)
 
-[image!](https://github.com/AdindaAurielSafira/AdindaAS-UAS-Pengkodean-D-284/blob/main/korelasi/scatter_korelasi.png)
+![image](https://github.com/AdindaAurielSafira/AdindaAS-UAS-Pengkodean-D-284/blob/main/korelasi/scatter_korelasi.png)
 
 1) Korelasi Elektronik, Gambar 4 menunjukkan bahwa ada korelasi positif yang sangat kuat antara penjualan dan pendapatan untuk kategori Elektronik. Hal ini berarti bahwa ketika jumlah unit elektronik yang terjual meningkat, pendapatan dari elektronik juga meningkat secara signifikan. Data ini konsisten dengan nilai korelasi tinggi yang ditunjukkan di Gambar 3 (0.92).
    
