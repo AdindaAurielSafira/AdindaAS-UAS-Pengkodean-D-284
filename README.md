@@ -1,4 +1,4 @@
-# Tugas-UAS-Pengkodean-D
+# UAS-Pengkodean-D
 
 ![image](https://github.com/AdindaAurielSafira/AdindaAS-UAS-Pengkodean-D-284/blob/main/penjualan_per_kategori/penjualan_per_kategori.png)
 
